@@ -1,0 +1,2 @@
+
+find . \( -name '#*#' -or -name '*~' \) -exec rm {} \;
